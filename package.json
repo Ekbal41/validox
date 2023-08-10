@@ -1,0 +1,24 @@
+{
+  "name": "validy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "lib/*.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validator",
+    "napnux",
+    "validy"
+  ],
+  "author": "Asif Ekbal (https://asifekbal.vercel.app)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ekbal41/validy.git"
+  },
+  "license": "ISC"
+}
